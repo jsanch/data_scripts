@@ -4,7 +4,7 @@ import csv
 
 input_filename = "in.csv" # must be in the same dir as script. 
 output_filename = "out.csv" 
-random_sample_size = 100 #Desired number of lines for the sample
+random_sample_size = 10000 #Desired number of lines for the sample
 
 # Open the desired file
 f = open(input_filename) 

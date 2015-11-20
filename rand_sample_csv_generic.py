@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np 
 import csv 
 
-input_filename = "in.csv" # must be in the same dir as script. 
+input_filename = "test.csv" # must be in the same dir as script. 
 output_filename = "out.csv" 
 random_sample_size = 10000 #Desired number of lines for the sample
 
